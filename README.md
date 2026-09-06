@@ -1,5 +1,10 @@
 # Program-Service
 
+## Student Information
+- **Student Name:** Angelo Fernando
+- **Student ID:** 241711026
+- **GCP Project ID:** eca-capstone-1788534495
+
 A microservice responsible for managing academic programs offered by the institution. It exposes a RESTful JSON API consumed by the API Gateway.
 
 ## About
